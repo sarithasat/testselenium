@@ -1,0 +1,11 @@
+[0523/225036.555:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\makka\AppData\Local\Temp\scoped_dir12476_485950552\Crashpad\reports\60e5da60-fa28-4c07-83b9-f35cefdd31dc.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0524/003155.777:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/003258.154:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/003509.925:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/003510.056:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/003510.134:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/003510.161:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/004753.687:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/010107.775:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/010112.773:ERROR:process_info.cc(359)] UncheckedAllocate
+[0524/010113.093:ERROR:process_info.cc(359)] UncheckedAllocate

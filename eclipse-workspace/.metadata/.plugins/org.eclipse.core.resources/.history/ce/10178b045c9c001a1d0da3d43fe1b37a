@@ -1,0 +1,22 @@
+package ObjectConcepts;
+
+public class CallByReference {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		CallByReference obj = new CallByReference();
+		int y=obj.testSum(5, 6);
+		System.out.println(y);
+		
+
+		
+
+	}
+	
+	public int testSum(int a, int b)
+	{
+		int c= a+b;
+		return c;
+	}
+
+}

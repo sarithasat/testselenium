@@ -1,0 +1,8 @@
+Feature: Free CRM Login
+Scenario: Free CRM Login Test Scenario
+
+Given User is already on Login Page
+When tiel fo login page is CRMPage
+Then User Enters UserName and Password
+Then User Clicks Login Button
+And user is on homepage

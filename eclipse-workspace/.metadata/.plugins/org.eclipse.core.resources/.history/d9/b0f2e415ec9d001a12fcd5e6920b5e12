@@ -1,0 +1,12 @@
+package SeleniumSessions;
+
+import org.openqa.selenium.WebDriver;
+
+
+public class WindowPopUp {
+
+	
+	System.setProperty("webdriver.chrome.driver","C://ChromeDriver.exe");
+	WebDriver driver= new WebDriver();
+	driver.get()
+}

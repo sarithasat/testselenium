@@ -1,0 +1,15 @@
+import Oopsconcepts.HSBC;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       HSBC H = new HSBC();
+       H.credit();
+       H.debit();
+       H.debit();
+       H.transfermoney();
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package SeleniumSessions;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.*;
+import org.openqa.selenium.firefox.*;
+public class WebdriverBasics {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//1.ff browser
+		//gecodriver
+		System.setProperty("webdriver.gecko.driver", "C:\\Users\\makka\\Downloads\\geckodriver-v0.26.0-win64.exe");
+		WebDriver driver = new FirefoxDriver();
+
+	}
+
+}

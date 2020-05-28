@@ -1,0 +1,19 @@
+package testpractive;
+
+public class StringConcat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int a = 3;
+		int b=10;
+		String x = "Hello";
+		String y = "World";
+		
+		System.out.println(a+b+x+y);
+		System.out.println(x +y);
+		System.out.println(a+b+x+y+a+x+b+y);
+	}
+
+}

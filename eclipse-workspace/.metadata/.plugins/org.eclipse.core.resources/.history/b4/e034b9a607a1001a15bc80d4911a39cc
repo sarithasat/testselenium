@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class Reverse1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String original="";
+		String rev = "";
+		//Scanner in= new Scanner(System.in);
+		//original=in.next();
+		int len= original.length();
+		for(int i=len-1; i>=0;i--)
+		{
+			rev= rev+original.charAt(i);
+		}
+				System.out.println(rev);
+				System.out.println(rev.charAt(3));
+				System.out.println(rev.concat(original));
+				System.out.println(rev.substring(2,4));
+				System.out.println(rev.toUpperCase());
+		if(original.equalsIgnoreCase(rev)){
+			System.out.println("number is palidrome");
+		}
+		else
+			System.out.println("number is not ");
+	}
+
+	
+
+}

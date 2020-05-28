@@ -1,0 +1,5 @@
+package Oopsconcepts;
+
+public interface USBank {
+
+}

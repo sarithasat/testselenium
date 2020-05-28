@@ -1,0 +1,16 @@
+package Abstractconcept
+;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		hdfc h = new hdfc();
+		h.loan();
+		h.credit();
+		h.debit();
+
+	}
+
+}
